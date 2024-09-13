@@ -1,0 +1,41 @@
+.bar{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #070000;
+    text-align: right;
+    
+}
+.BB{
+    font-weight: 100;
+    font-size: 30px;
+    background-color: rgb(220, 217, 217);
+
+}
+.font{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+* p{
+    font-family: fantasy;
+}
+h4{ color: #fc0000;
+       
+}
+h2{
+    text-align: center;
+    font-weight: 50px;
+    font-size: 50px;
+}
+.changecolor{
+    height: 100vh;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: gold;
+    background-image:   url(./media/cyber-brain-7633488_640.jpg);
+
+}
+.changecolor:hover{
+    background-color: black;
+}
+ 
+
